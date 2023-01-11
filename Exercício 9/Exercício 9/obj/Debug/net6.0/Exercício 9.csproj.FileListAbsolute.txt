@@ -1,0 +1,15 @@
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\bin\Debug\net6.0\Exercício 9.exe
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\bin\Debug\net6.0\Exercício 9.deps.json
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\bin\Debug\net6.0\Exercício 9.runtimeconfig.json
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\bin\Debug\net6.0\Exercício 9.dll
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\bin\Debug\net6.0\Exercício 9.pdb
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.csproj.AssemblyReference.cache
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.AssemblyInfoInputs.cache
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.AssemblyInfo.cs
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.csproj.CoreCompileInputs.cache
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.dll
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\refint\Exercício 9.dll
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.pdb
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\Exercício 9.genruntimeconfig.cache
+C:\Users\Letícia\Desktop\Exercícios POO prático\Be_The_Next_Modulo2\Exercício 9\Exercício 9\obj\Debug\net6.0\ref\Exercício 9.dll
